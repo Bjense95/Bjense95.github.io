@@ -1,6 +1,8 @@
-p { 
-  color: blue;
- }
+body {
+  font: 18px Courier New;
+  background: linear-gradient();
+}
+
 #pic {
   float: right;
 }
