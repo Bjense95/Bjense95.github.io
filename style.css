@@ -5,6 +5,8 @@ body {
 
 #pic {
   float: right;
+  width: 50px;
+  height:50px;
 }
 
 #button {
