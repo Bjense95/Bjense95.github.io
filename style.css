@@ -1,5 +1,5 @@
 body {
-      font: 18px FF DIN;      
+      font: 16px FF DIN;      
       position: center;
 }
 
@@ -22,7 +22,7 @@ body {
         width: 800px;
         margin: 40px auto 60px;
   
-        padding: 20px 150px 20px 150px;
+        padding: 10px 100px 10px 100px;
        
         border-radius: 20px;
         background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
