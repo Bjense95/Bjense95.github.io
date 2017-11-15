@@ -1,18 +1,17 @@
 body {
   font: 14px FF DIN;
-  background: url(noise.png);
+  background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
 }
 
 #pic {
   float: right;
   width: 200px;
-  height:200px;
+  height:250px;
 }
 
 #button {
         margin-left: 40%;
         margin-right: 40%;
-        background-color: #318975;
          
         border-radius: 15px;
         height: 100px;
