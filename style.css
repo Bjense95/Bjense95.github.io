@@ -10,8 +10,9 @@ body {
 }
 
 #button {
-       margin-left: 40%;
-       margin-right: 40%;
+       margin-top:20px;
+       margin-left: 200px;
+       margin-right: 200px;
          
        border-radius: 15px;
        height: 100px;
