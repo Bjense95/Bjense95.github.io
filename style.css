@@ -1,5 +1,7 @@
 body {
-      font: 18px FF DIN;  
+      font: 18px FF DIN;      
+      position: center;
+         
       
 }
 
@@ -13,7 +15,6 @@ body {
        margin-top:20px;
        margin-left: 200px;
        margin-right: 200px;
-       position: fixed;
          
        border-radius: 15px;
        height: 100px;
