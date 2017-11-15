@@ -1,6 +1,6 @@
 body {
       font: 18px FF DIN;  
-      background: url(noise.png);
+      
 }
 
 #pic {
@@ -13,6 +13,7 @@ body {
        margin-top:20px;
        margin-left: 200px;
        margin-right: 200px;
+       position: fixed;
          
        border-radius: 15px;
        height: 100px;
