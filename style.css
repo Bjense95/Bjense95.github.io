@@ -1,6 +1,6 @@
 body {
-  font: 18px Courier New;
-  background: linear-gradient();
+  font: 10px FF DIN;
+  background: linear-gradient(noise.png);
 }
 
 #pic {
