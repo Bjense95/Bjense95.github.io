@@ -6,7 +6,6 @@ body {
       float: right;
       width: 200px;
       height:250px;
-      border-image: url(border.png) 20% round;
 }
 
 #button {
